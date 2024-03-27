@@ -1,4 +1,4 @@
-# SQL-
+# SQL- Project
 
 You are hired by a chain of online retail stores “Fastkart”. 
 
